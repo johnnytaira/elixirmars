@@ -1,4 +1,4 @@
-# Elixirmars
+# ElixirMars
 
 **TODO: Add description**
 
